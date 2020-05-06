@@ -1,0 +1,1172 @@
+$	access_log.o	805
+$	access_log.o	819
+$	regex_matcher.o	601
+$(TARGET	Makefile	/^$(TARGET): ui_mainwindow.h $(OBJECTS)  $/
+.qmake.stash	Makefile	/^.qmake.stash:$/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/lib/libQt5Core.prl	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/lib\/libQt5Core/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/lib/libQt5Gui.prl	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/lib\/libQt5Gui./
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/lib/libQt5Network.prl	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/lib\/libQt5Netw/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/lib/libQt5Sql.prl	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/lib\/libQt5Sql./
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/lib/libQt5Widgets.prl	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/lib\/libQt5Widg/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/common/g++-base.conf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/common/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/common/g++-unix.conf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/common/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/common/gcc-base-unix.conf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/common/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/common/gcc-base.conf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/common/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/common/linux.conf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/common/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/common/sanitize.conf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/common/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/common/unix.conf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/common/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/default_post.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/default_pre.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/exceptions.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/exclusive_builds.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/file_copies.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/lex.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/moc.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/qmake_use.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/qml_debug.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/qt.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/qt_config.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/qt_functions.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/resolve_config.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/resources.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/spec_post.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/spec_pre.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/testcase_targets.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/toolchain.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/uic.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/unix/opengl.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/unix/thread.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/warn_on.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/features/yacc.prf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/featur/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/linux-g++/qmake.conf	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/linux-/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3danimation.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3danimation_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dcore.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dcore_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dextras.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dextras_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dinput.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dinput_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dlogic.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dlogic_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquick.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquick_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickanimation.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickanimation_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickextras.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickextras_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickinput.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickinput_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickrender.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickrender_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickscene2d.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3dquickscene2d_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3drender.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_3drender_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_accessibility_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_bluetooth.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_bluetooth_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_bootstrap_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_charts.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_charts_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_concurrent.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_concurrent_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_core.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_core_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_datavisualization.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_datavisualization_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_dbus.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_dbus_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_designer.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_designer_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_designercomponents_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_devicediscovery_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_egl_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_eglfsdeviceintegration_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_eventdispatcher_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_fb_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_fontdatabase_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_gamepad.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_gamepad_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_glx_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_gui.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_gui_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_help.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_help_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_input_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_kms_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_linuxaccessibility_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_location.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_location_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_multimedia.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_multimedia_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_multimediawidgets.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_multimediawidgets_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_network.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_network_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_networkauth.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_networkauth_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_nfc.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_nfc_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_opengl.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_opengl_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_openglextensions.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_openglextensions_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_packetprotocol_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_platformcompositor_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_positioning.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_positioning_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_printsupport.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_printsupport_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_purchasing.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_purchasing_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_qml.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_qml_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_qmldebug_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_qmldevtools_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_qmltest.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_qmltest_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_qtmultimediaquicktools_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_quick.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_quick_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_quickcontrols2.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_quickcontrols2_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_quickparticles_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_quicktemplates2_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_quickwidgets.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_quickwidgets_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_remoteobjects.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_remoteobjects_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_repparser.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_repparser_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_script.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_script_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_scripttools.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_scripttools_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_scxml.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_scxml_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_sensors.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_sensors_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_serialbus.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_serialbus_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_serialport.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_serialport_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_service_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_sql.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_sql_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_svg.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_svg_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_testlib.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_testlib_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_texttospeech.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_texttospeech_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_theme_support_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_uiplugin.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_uitools.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_uitools_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webchannel.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webchannel_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webengine.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webengine_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webenginecore.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webenginecore_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webenginecoreheaders_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webenginewidgets.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webenginewidgets_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_websockets.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_websockets_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webview.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_webview_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_widgets.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_widgets_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_x11extras.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_x11extras_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_xcb_qpa_lib_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_xml.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_xml_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_xmlpatterns.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/modules/qt_lib_xmlpatterns_private.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/module/
+/home/xiaolonglu/Qt5.9.0/5.9/gcc_64/mkspecs/qconfig.pri	Makefile	/^\/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64\/mkspecs\/qconfi/
+@	NovuCamera	13612
+A	methods_handler.o	511
+A	NovuCamera	13592
+AR	Makefile	/^AR            = ar cqs$/
+B	RenderWidget.o	6844
+B	RenderWidget.o	7178
+C	RenderWidget.o	6754
+CC	Makefile	/^CC            = gcc$/
+CFLAGS	Makefile	/^CFLAGS        = -pipe -g -Wall -W -D_REENTRANT -fP/
+CHK_DIR_EXISTS	Makefile	/^CHK_DIR_EXISTS= test -d$/
+COMPRESS	Makefile	/^COMPRESS      = gzip -9f$/
+CONFIG	NovuCamera.pro	/^CONFIG(release, debug|release):$/
+COPY	Makefile	/^COPY          = cp -f$/
+COPY_DIR	Makefile	/^COPY_DIR      = cp -f -R$/
+COPY_FILE	Makefile	/^COPY_FILE     = cp -f$/
+CRenderWidget	RenderWidget.h	7
+CRenderWidget::CRenderWidget	RenderWidget.cpp	/^CRenderWidget::CRenderWidget(QWidget *parent)$/
+CRenderWidget::m_currentFrame	RenderWidget.h	16
+CRenderWidget::m_pixmapMutex	RenderWidget.h	17
+CRenderWidget::metaObject	moc_RenderWidget.cpp	/^const QMetaObject *CRenderWidget::metaObject() con/
+CRenderWidget::paintEvent	RenderWidget.cpp	/^void CRenderWidget::paintEvent(QPaintEvent *ev)$/
+CRenderWidget::qt_metacall	moc_RenderWidget.cpp	/^int CRenderWidget::qt_metacall(QMetaObject::Call _/
+CRenderWidget::qt_metacast	moc_RenderWidget.cpp	/^void *CRenderWidget::qt_metacast(const char *_clna/
+CRenderWidget::qt_static_metacall	moc_RenderWidget.cpp	/^void CRenderWidget::qt_static_metacall(QObject *_o/
+CRenderWidget::setPixmap	RenderWidget.cpp	/^void CRenderWidget::setPixmap(const QImage &p)$/
+CRenderWidget::staticMetaObject	moc_RenderWidget.cpp	65
+CVHelper	Util.h	/^namespace CVHelper$/
+CXX	Makefile	/^CXX           = g++$/
+CXXFLAGS	Makefile	/^CXXFLAGS      = -pipe -g -std=gnu++11 -Wall -W -D_/
+D	RenderWidget.o	6637
+D	RenderWidget.o	6704
+D	RenderWidget.o	6706
+D	RenderWidget.o	6709
+D	RenderWidget.o	6711
+D	RenderWidget.o	6715
+D	RenderWidget.o	6717
+D	RenderWidget.o	6719
+D	RenderWidget.o	6722
+D	RenderWidget.o	6725
+D	RenderWidget.o	6738
+DEFINES	Makefile	/^DEFINES       = -DQT_DEPRECATED_WARNINGS -DQT_QML_/
+DEL_DIR	Makefile	/^DEL_DIR       = rmdir$/
+DEL_FILE	Makefile	/^DEL_FILE      = rm -f$/
+DEL_FILE	Makefile	/^DEL_FILE      = rm -f$/
+DESTDIR	Makefile	/^DESTDIR       = $/
+DIST	Makefile	/^DIST          = \/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_6/
+DISTDIR	Makefile	/^DISTDIR = \/media\/xiaolonglu\/data2\/myproject\/NovuCa/
+DISTNAME	Makefile	/^DISTNAME      = NovuCamera1.0.0$/
+E	moc_mainwindow.o	4404
+E	moc_mainwindow.o	4429
+E	moc_mainwindow.o	4433
+E	NovuCamera	13577
+E	RenderWidget.o	7007
+E	RenderWidget.o	7012
+ELF	mythread.o	1
+EQ	mythread.o	2766
+F	RenderWidget.o	6648
+F	request_parser_impl.o	923
+FORCE	Makefile	/^FORCE:$/
+G	moc_RenderWidget.o	894
+G	mythread.o	23388
+G	RenderWidget.o	6671
+G	RenderWidget.o	6676
+H	moc_RenderWidget.o	921
+Ha	RenderWidget.o	6874
+Ha	RenderWidget.o	6876
+Ha	RenderWidget.o	6879
+Ha	RenderWidget.o	6881
+Ha	RenderWidget.o	6885
+Ha	RenderWidget.o	6887
+Ha	RenderWidget.o	6889
+Ha	RenderWidget.o	6892
+Ha	RenderWidget.o	6895
+Ha	RenderWidget.o	6908
+Ha	RenderWidget.o	6920
+HÉEË	request_parser.o	22
+HÉEË	request_parser.o	25
+HÉÖ	multiplexer.o	5
+Hâ	NovuCamera	91
+Hâ	NovuCamera	91
+HâHãJHâH	connection.o	158
+HâHãJHâH	server.o	168
+Hâu	NovuCamera	55
+Hâu	NovuCamera	55
+HâuHâUËHã	NovuCamera	55
+HâuHâUËHã	NovuCamera	55
+Hâ√H	NovuCamera	91
+Hâ√HçE	NovuCamera	91
+Hâ√HçE	NovuCamera	91
+Hâ√HçE	NovuCamera	91
+Hâ√HçE	NovuCamera	91
+Hâ√HçE‡	NovuCamera	91
+Hâ√HçE‡	NovuCamera	91
+Hâ√HçE‡	NovuCamera	91
+Hâ√HçE‡	NovuCamera	91
+HãE	regex_matcher.o	247
+HãE‡HÉ¿ÎHãE‡H	server.o	176
+HçÖ	NovuCamera	57
+I	RenderWidget.o	6767
+INCPATH	Makefile	/^INCPATH       = -I. -isystem \/usr\/local\/include -i/
+INSTALL_DIR	Makefile	/^INSTALL_DIR   = cp -f -R$/
+INSTALL_FILE	Makefile	/^INSTALL_FILE  = install -m 644 -p$/
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = install -m 755 -p$/
+INT64_C	mainwindow.h	28
+K	multiplexer.o	683
+L	moc_mainwindow.o	1165
+L	NovuCamera	8886
+L	NovuCamera	8892
+L4	server.o	932
+LFLAGS	Makefile	/^LFLAGS        = -Wl,-rpath,\/home\/xiaolonglu\/Qt5.9./
+LIBS	Makefile	/^LIBS          = $(SUBLIBS) \/usr\/local\/lib\/libopenc/
+LINK	Makefile	/^LINK          = g++$/
+MAINWINDOW_H	mainwindow.h	2
+MAKEFILE	Makefile	/^MAKEFILE      = Makefile$/
+MKDIR	Makefile	/^MKDIR         = mkdir -p$/
+MM	methods_handler.o	971
+MOVE	Makefile	/^MOVE          = mv -f$/
+MSleep	Util.h	/^inline void MSleep (int milliseconds)$/
+MYSQL_H	mysql.h	2
+MYTHREAD_H	mythread.h	2
+MainWindow	mainwindow.h	40
+MainWindow::AllocVideoBuf	mainwindow.cpp	/^void MainWindow::AllocVideoBuf(int width, int heig/
+MainWindow::GetVideoBuf	mainwindow.cpp	/^char* MainWindow::GetVideoBuf() const$/
+MainWindow::HandleStream_cb	mainwindow.cpp	/^void MainWindow::HandleStream_cb(void *opaque, voi/
+MainWindow::MainWindow	mainwindow.cpp	/^MainWindow::MainWindow(QWidget *parent) :$/
+MainWindow::OpenVideo	mainwindow.cpp	/^void MainWindow::OpenVideo(const char* rtsp)$/
+MainWindow::PreDecode_cb	mainwindow.cpp	/^void* MainWindow::PreDecode_cb(void *opaque, void /
+MainWindow::Qimg	mainwindow.h	296
+MainWindow::Render_cb	mainwindow.cpp	/^void MainWindow::Render_cb(void *opaque, void *pic/
+MainWindow::capture	mainwindow.h	291
+MainWindow::filename	mainwindow.h	294
+MainWindow::frame	mainwindow.h	292
+MainWindow::handleTimeout	mainwindow.cpp	/^void MainWindow::handleTimeout() {$/
+MainWindow::m_frameHeight	mainwindow.h	309
+MainWindow::m_frameWidth	mainwindow.h	308
+MainWindow::m_pvlcMedia	mainwindow.h	313
+MainWindow::m_videobuf	mainwindow.h	307
+MainWindow::m_vlcInstance	mainwindow.h	311
+MainWindow::m_vlcMediaPlayer	mainwindow.h	312
+MainWindow::metaObject	moc_mainwindow.cpp	/^const QMetaObject *MainWindow::metaObject() const$/
+MainWindow::mutex	mainwindow.h	299
+MainWindow::on_horizontalScrollBar_2_valueChanged	mainwindow.cpp	/^void MainWindow::on_horizontalScrollBar_2_valueCha/
+MainWindow::on_horizontalScrollBar_valueChanged	mainwindow.cpp	/^void MainWindow::on_horizontalScrollBar_valueChang/
+MainWindow::on_label_100_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_100_linkActivated(const /
+MainWindow::on_label_101_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_101_linkActivated(const /
+MainWindow::on_label_102_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_102_linkActivated(const /
+MainWindow::on_label_103_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_103_linkActivated(const /
+MainWindow::on_label_104_destroyed	mainwindow.cpp	/^void MainWindow::on_label_104_destroyed()$/
+MainWindow::on_label_104_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_104_linkActivated(const /
+MainWindow::on_label_105_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_105_linkActivated(const /
+MainWindow::on_label_106_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_106_linkActivated(const /
+MainWindow::on_label_20_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_20_linkActivated(const Q/
+MainWindow::on_label_21_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_21_linkActivated(const Q/
+MainWindow::on_label_22_destroyed	mainwindow.cpp	/^void MainWindow::on_label_22_destroyed()$/
+MainWindow::on_label_22_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_22_linkActivated(const Q/
+MainWindow::on_label_24_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_24_linkActivated(const Q/
+MainWindow::on_label_25_destroyed	mainwindow.cpp	/^void MainWindow::on_label_25_destroyed()$/
+MainWindow::on_label_25_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_25_linkActivated(const Q/
+MainWindow::on_label_26_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_26_linkActivated(const Q/
+MainWindow::on_label_27_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_27_linkActivated(const Q/
+MainWindow::on_label_29_destroyed	mainwindow.cpp	/^void MainWindow::on_label_29_destroyed()$/
+MainWindow::on_label_29_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_29_linkActivated(const Q/
+MainWindow::on_label_31_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_31_linkActivated(const Q/
+MainWindow::on_label_33_destroyed	mainwindow.cpp	/^void MainWindow::on_label_33_destroyed()$/
+MainWindow::on_label_33_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_33_linkActivated(const Q/
+MainWindow::on_label_35_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_35_linkActivated(const Q/
+MainWindow::on_label_37_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_37_linkActivated(const Q/
+MainWindow::on_label_39_destroyed	mainwindow.cpp	/^void MainWindow::on_label_39_destroyed()$/
+MainWindow::on_label_39_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_39_linkActivated(const Q/
+MainWindow::on_label_41_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_41_linkActivated(const Q/
+MainWindow::on_label_42_destroyed	mainwindow.cpp	/^void MainWindow::on_label_42_destroyed()$/
+MainWindow::on_label_42_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_42_linkActivated(const Q/
+MainWindow::on_label_43_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_43_linkActivated(const Q/
+MainWindow::on_label_44_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_44_linkActivated(const Q/
+MainWindow::on_label_45_destroyed	mainwindow.cpp	/^void MainWindow::on_label_45_destroyed()$/
+MainWindow::on_label_45_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_45_linkActivated(const Q/
+MainWindow::on_label_46_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_46_linkActivated(const Q/
+MainWindow::on_label_47_destroyed	mainwindow.cpp	/^void MainWindow::on_label_47_destroyed()$/
+MainWindow::on_label_47_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_47_linkActivated(const Q/
+MainWindow::on_label_48_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_48_linkActivated(const Q/
+MainWindow::on_label_49_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_49_linkActivated(const Q/
+MainWindow::on_label_50_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_50_linkActivated(const Q/
+MainWindow::on_label_51_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_51_linkActivated(const Q/
+MainWindow::on_label_52_destroyed	mainwindow.cpp	/^void MainWindow::on_label_52_destroyed()$/
+MainWindow::on_label_52_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_52_linkActivated(const Q/
+MainWindow::on_label_53_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_53_linkActivated(const Q/
+MainWindow::on_label_54_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_54_linkActivated(const Q/
+MainWindow::on_label_55_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_55_linkActivated(const Q/
+MainWindow::on_label_56_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_56_linkActivated(const Q/
+MainWindow::on_label_57_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_57_linkActivated(const Q/
+MainWindow::on_label_58_destroyed	mainwindow.cpp	/^void MainWindow::on_label_58_destroyed()$/
+MainWindow::on_label_58_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_58_linkActivated(const Q/
+MainWindow::on_label_59_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_59_linkActivated(const Q/
+MainWindow::on_label_60_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_60_linkActivated(const Q/
+MainWindow::on_label_61_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_61_linkActivated(const Q/
+MainWindow::on_label_62_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_62_linkActivated(const Q/
+MainWindow::on_label_63_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_63_linkActivated(const Q/
+MainWindow::on_label_64_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_64_linkActivated(const Q/
+MainWindow::on_label_65_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_65_linkActivated(const Q/
+MainWindow::on_label_66_destroyed	mainwindow.cpp	/^void MainWindow::on_label_66_destroyed()$/
+MainWindow::on_label_66_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_66_linkActivated(const Q/
+MainWindow::on_label_67_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_67_linkActivated(const Q/
+MainWindow::on_label_68_destroyed	mainwindow.cpp	/^void MainWindow::on_label_68_destroyed()$/
+MainWindow::on_label_68_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_68_linkActivated(const Q/
+MainWindow::on_label_69_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_69_linkActivated(const Q/
+MainWindow::on_label_70_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_70_linkActivated(const Q/
+MainWindow::on_label_71_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_71_linkActivated(const Q/
+MainWindow::on_label_72_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_72_linkActivated(const Q/
+MainWindow::on_label_73_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_73_linkActivated(const Q/
+MainWindow::on_label_74_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_74_linkActivated(const Q/
+MainWindow::on_label_75_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_75_linkActivated(const Q/
+MainWindow::on_label_76_destroyed	mainwindow.cpp	/^void MainWindow::on_label_76_destroyed()$/
+MainWindow::on_label_76_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_76_linkActivated(const Q/
+MainWindow::on_label_77_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_77_linkActivated(const Q/
+MainWindow::on_label_78_destroyed	mainwindow.cpp	/^void MainWindow::on_label_78_destroyed()$/
+MainWindow::on_label_78_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_78_linkActivated(const Q/
+MainWindow::on_label_79_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_79_linkActivated(const Q/
+MainWindow::on_label_80_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_80_linkActivated(const Q/
+MainWindow::on_label_81_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_81_linkActivated(const Q/
+MainWindow::on_label_82_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_82_linkActivated(const Q/
+MainWindow::on_label_83_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_83_linkActivated(const Q/
+MainWindow::on_label_84_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_84_linkActivated(const Q/
+MainWindow::on_label_85_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_85_linkActivated(const Q/
+MainWindow::on_label_86_destroyed	mainwindow.cpp	/^void MainWindow::on_label_86_destroyed()$/
+MainWindow::on_label_86_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_86_linkActivated(const Q/
+MainWindow::on_label_87_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_87_linkActivated(const Q/
+MainWindow::on_label_88_destroyed	mainwindow.cpp	/^void MainWindow::on_label_88_destroyed()$/
+MainWindow::on_label_88_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_88_linkActivated(const Q/
+MainWindow::on_label_89_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_89_linkActivated(const Q/
+MainWindow::on_label_90_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_90_linkActivated(const Q/
+MainWindow::on_label_91_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_91_linkActivated(const Q/
+MainWindow::on_label_92_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_92_linkActivated(const Q/
+MainWindow::on_label_93_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_93_linkActivated(const Q/
+MainWindow::on_label_94_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_94_linkActivated(const Q/
+MainWindow::on_label_95_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_95_linkActivated(const Q/
+MainWindow::on_label_96_destroyed	mainwindow.cpp	/^void MainWindow::on_label_96_destroyed()$/
+MainWindow::on_label_96_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_96_linkActivated(const Q/
+MainWindow::on_label_97_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_97_linkActivated(const Q/
+MainWindow::on_label_98_destroyed	mainwindow.cpp	/^void MainWindow::on_label_98_destroyed()$/
+MainWindow::on_label_98_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_98_linkActivated(const Q/
+MainWindow::on_label_99_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_99_linkActivated(const Q/
+MainWindow::on_label_destroyed	mainwindow.cpp	/^void MainWindow::on_label_destroyed()$/
+MainWindow::on_label_linkActivated	mainwindow.cpp	/^void MainWindow::on_label_linkActivated(const QStr/
+MainWindow::on_lineEdit_2_returnPressed	mainwindow.cpp	/^void MainWindow::on_lineEdit_2_returnPressed()\/\/Á´/
+MainWindow::on_lineEdit_3_returnPressed	mainwindow.cpp	/^void MainWindow::on_lineEdit_3_returnPressed()\/\/Ëæ/
+MainWindow::on_lineEdit_4_returnPressed	mainwindow.cpp	/^void MainWindow::on_lineEdit_4_returnPressed()\/\/‰∫/
+MainWindow::on_lineEdit_7_returnPressed	mainwindow.cpp	/^void MainWindow::on_lineEdit_7_returnPressed()\/\/‰∫/
+MainWindow::on_lineEdit_returnPressed	mainwindow.cpp	/^void MainWindow::on_lineEdit_returnPressed()$/
+MainWindow::on_openGLWidget_destroyed	mainwindow.cpp	/^void MainWindow::on_openGLWidget_destroyed()$/
+MainWindow::on_pushButton_2_clicked	mainwindow.cpp	/^void MainWindow::on_pushButton_2_clicked()\/\/Ê∑ªÂä†/
+MainWindow::on_pushButton_close_clicked	mainwindow.cpp	/^void MainWindow::on_pushButton_close_clicked()$/
+MainWindow::on_pushButton_open_clicked	mainwindow.cpp	/^void MainWindow::on_pushButton_open_clicked()$/
+MainWindow::on_pushButton_pause_clicked	mainwindow.cpp	/^void MainWindow::on_pushButton_pause_clicked()$/
+MainWindow::on_pushButton_restart_clicked	mainwindow.cpp	/^void MainWindow::on_pushButton_restart_clicked()$/
+MainWindow::pAVCodecContext	mainwindow.h	302
+MainWindow::pAVFormatContext	mainwindow.h	301
+MainWindow::pAVFrame	mainwindow.h	303
+MainWindow::pAVPacket	mainwindow.h	305
+MainWindow::pAVPicture	mainwindow.h	300
+MainWindow::pSwsContext	mainwindow.h	304
+MainWindow::qt_metacall	moc_mainwindow.cpp	/^int MainWindow::qt_metacall(QMetaObject::Call _c, /
+MainWindow::qt_metacast	moc_mainwindow.cpp	/^void *MainWindow::qt_metacast(const char *_clname)/
+MainWindow::qt_static_metacall	moc_mainwindow.cpp	/^void MainWindow::qt_static_metacall(QObject *_o, Q/
+MainWindow::result_frame	mainwindow.h	293
+MainWindow::src	mainwindow.h	295
+MainWindow::staticMetaObject	moc_mainwindow.cpp	629
+MainWindow::thread	mainwindow.h	314
+MainWindow::timer	mainwindow.h	290
+MainWindow::ui	mainwindow.h	289
+MainWindow::~MainWindow	mainwindow.cpp	/^MainWindow::~MainWindow()$/
+Makefile	Makefile	/^Makefile: NovuCamera.pro \/home\/xiaolonglu\/Qt5.9.0\//
+Mmain.cpp	main.cpp	/^int main(int argc, char *argv[])$/
+MyThread	moc_mythread.cpp	78
+MyThread	mythread.h	24
+MyThread::MyThread	mythread.cpp	/^MyThread::MyThread(QObject *parent)$/
+MyThread::isDone	moc_mythread.cpp	/^void MyThread::isDone()$/
+MyThread::metaObject	moc_mythread.cpp	/^const QMetaObject *MyThread::metaObject() const$/
+MyThread::qt_metacall	moc_mythread.cpp	/^int MyThread::qt_metacall(QMetaObject::Call _c, in/
+MyThread::qt_metacast	moc_mythread.cpp	/^void *MyThread::qt_metacast(const char *_clname)$/
+MyThread::qt_static_metacall	moc_mythread.cpp	/^void MyThread::qt_static_metacall(QObject *_o, QMe/
+MyThread::run	mythread.cpp	/^void MyThread::run()$/
+MyThread::slots	mythread.h	42
+MyThread::staticMetaObject	moc_mythread.cpp	88
+MyThread::~MyThread	mythread.cpp	/^MyThread::~MyThread()$/
+MysqlDB	mysql.h	17
+MysqlDB::MysqlDB	mysql.cpp	/^MysqlDB::MysqlDB(){$/
+MysqlDB::add	mysql.cpp	/^void MysqlDB::add(ASF_FaceFeature feature, string /
+MysqlDB::addBigData	mysql.cpp	/^void MysqlDB::addBigData(ASF_FaceFeature feature, /
+MysqlDB::connect	mysql.cpp	/^void MysqlDB::connect(string host, string user, st/
+MysqlDB::field	mysql.h	22
+MysqlDB::findNameByFeature	mysql.cpp	/^string MysqlDB::findNameByFeature(ASF_FaceFeature /
+MysqlDB::findNameByFeature02	mysql.cpp	/^string MysqlDB::findNameByFeature02(char *feature)/
+MysqlDB::getAllFeatureByBigDataMap02	mysql.cpp	/^map<person,ASF_FaceFeature> MysqlDB::getAllFeature/
+MysqlDB::getAllFeatures	mysql.cpp	/^vector<ASF_FaceFeature> MysqlDB::getAllFeatures(){/
+MysqlDB::getAllFeaturesByBigData	mysql.cpp	/^vector<ASF_FaceFeature> MysqlDB::getAllFeaturesByB/
+MysqlDB::getAllFeaturesByBigDataByMap	mysql.cpp	/^map<string,ASF_FaceFeature> MysqlDB::getAllFeature/
+MysqlDB::map	mysql.h	32
+MysqlDB::map	mysql.h	33
+MysqlDB::mysql	mysql.h	19
+MysqlDB::result	mysql.h	21
+MysqlDB::row	mysql.h	20
+MysqlDB::~MysqlDB	mysql.cpp	/^MysqlDB::~MysqlDB(){$/
+NovuCamera.pro	Makefile	/^NovuCamera.pro:$/
+OBJECTS	Makefile	/^OBJECTS       = main.o \\$/
+OBJECTS_DIR	Makefile	/^OBJECTS_DIR   = .\/$/
+P	NovuCamera	13769
+PORT	mythread.cpp	26
+Q	multiplexer.o	720
+Q	mythread.o	2768
+Q	mythread.o	2770
+Q	request.o	768
+Q2	methods_handler.o	686
+QINSTALL_DIR	Makefile	/^QINSTALL_DIR  = \/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_6/
+QINSTALL_FILE	Makefile	/^QINSTALL_FILE = \/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_6/
+QINSTALL_PROGRAM	Makefile	/^QINSTALL_PROGRAM = \/home\/xiaolonglu\/Qt5.9.0\/5.9\/gc/
+QMAKE	Makefile	/^QMAKE         = \/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_6/
+QMAKE_TARGET	Makefile	/^QMAKE_TARGET  = NovuCamera$/
+QT_MOC_LITERAL	moc_mainwindow.cpp	/^#define QT_MOC_LITERAL(idx, ofs, len) \\$/
+QT_MOC_LITERAL	moc_mainwindow.cpp	257
+QT_MOC_LITERAL	moc_mythread.cpp	/^#define QT_MOC_LITERAL(idx, ofs, len) \\$/
+QT_MOC_LITERAL	moc_mythread.cpp	41
+QT_MOC_LITERAL	moc_RenderWidget.cpp	/^#define QT_MOC_LITERAL(idx, ofs, len) \\$/
+QT_MOC_LITERAL	moc_RenderWidget.cpp	39
+RANLIB	Makefile	/^RANLIB        = $/
+RenderWidget	ui_mainwindow.h	48
+RenderWidget.o	Makefile	/^RenderWidget.o: RenderWidget.cpp RenderWidget.h \\$/
+RenderWidget_h__	RenderWidget.h	2
+S	moc_mainwindow.o	6238
+SAFE_DELETE	Util.h	/^#define SAFE_DELETE(a) if( (a) != NULL ) delete (a/
+SAFE_DELETE_ARRAY	Util.h	/^#define SAFE_DELETE_ARRAY(p) { if((p) != NULL) { d/
+SED	Makefile	/^SED           = sed$/
+SERVER_H	server.h	2
+SOURCES	Makefile	/^SOURCES       = main.cpp \\$/
+STRIP	Makefile	/^STRIP         = strip$/
+SYMLINK	Makefile	/^SYMLINK       = ln -f -s$/
+SafeArrayDelete	mysql.cpp	/^#define SafeArrayDelete(p) { if ((p)) delete [] (p/
+SafeDelete	mysql.cpp	/^#define SafeDelete(p) { if ((p)) delete (p); (p) =/
+SafeFree	mysql.cpp	/^#define SafeFree(p) { if ((p)) free(p); (p) = NULL/
+Server	server.h	4
+Server::protected	server.h	12
+T	RenderWidget.o	6757
+T	RenderWidget.o	6842
+T	RenderWidget.o	6926
+TAR	Makefile	/^TAR           = tar -cf$/
+TARGET	Makefile	/^TARGET        = NovuCamera$/
+Tz	moc_RenderWidget.o	684
+Tz	moc_RenderWidget.o	694
+Tz	moc_RenderWidget.o	718
+Tz	moc_RenderWidget.o	732
+Tz	moc_RenderWidget.o	748
+Tz	moc_RenderWidget.o	754
+Tz	moc_RenderWidget.o	854
+UINT64_C	mainwindow.h	29
+UI_MAINWINDOW_H	ui_mainwindow.h	10
+Ui	ui_mainwindow.h	760
+Ui::MainWindow	ui_mainwindow.h	761
+Ui_MainWindow	ui_mainwindow.h	33
+Ui_MainWindow::retranslateUi	ui_mainwindow.h	/^    void retranslateUi(QMainWindow *MainWindow)$/
+Util_h__	Util.h	2
+V	connection_manager.o	324
+V	main.o	1810
+W	mysql.o	867
+W	mysql.o	869
+W	RenderWidget.o	1406
+W	RenderWidget.o	6660
+X	moc_mainwindow.o	4367
+X	moc_mainwindow.o	4380
+XKBE	NovuCamera	5
+Y	regex_matcher.o	638
+Z	request.o	212
+_	methods_handler.o	735
+_	RenderWidget.o	7143
+_GNU_SOURCE	moc_predefs.h	277
+_LP64	moc_predefs.h	224
+_STDC_PREDEF_H	moc_predefs.h	133
+__ATOMIC_ACQUIRE	moc_predefs.h	5
+__ATOMIC_ACQ_REL	moc_predefs.h	278
+__ATOMIC_CONSUME	moc_predefs.h	251
+__ATOMIC_HLE_ACQUIRE	moc_predefs.h	107
+__ATOMIC_HLE_RELEASE	moc_predefs.h	103
+__ATOMIC_RELAXED	moc_predefs.h	222
+__ATOMIC_RELEASE	moc_predefs.h	279
+__ATOMIC_SEQ_CST	moc_predefs.h	261
+__BIGGEST_ALIGNMENT__	moc_predefs.h	84
+__BYTE_ORDER__	moc_predefs.h	239
+__CHAR16_TYPE__	moc_predefs.h	172
+__CHAR32_TYPE__	moc_predefs.h	243
+__CHAR_BIT__	moc_predefs.h	11
+__DBL_DECIMAL_DIG__	moc_predefs.h	231
+__DBL_DENORM_MIN__	moc_predefs.h	21
+__DBL_DIG__	moc_predefs.h	57
+__DBL_EPSILON__	moc_predefs.h	223
+__DBL_HAS_DENORM__	moc_predefs.h	126
+__DBL_HAS_INFINITY__	moc_predefs.h	89
+__DBL_HAS_QUIET_NAN__	moc_predefs.h	189
+__DBL_MANT_DIG__	moc_predefs.h	209
+__DBL_MAX_10_EXP__	moc_predefs.h	256
+__DBL_MAX_EXP__	moc_predefs.h	100
+__DBL_MAX__	moc_predefs.h	86
+__DBL_MIN_10_EXP__	moc_predefs.h	33
+__DBL_MIN_EXP__	moc_predefs.h	2
+__DBL_MIN__	moc_predefs.h	120
+__DEC128_EPSILON__	moc_predefs.h	101
+__DEC128_MANT_DIG__	moc_predefs.h	265
+__DEC128_MAX_EXP__	moc_predefs.h	250
+__DEC128_MAX__	moc_predefs.h	96
+__DEC128_MIN_EXP__	moc_predefs.h	140
+__DEC128_MIN__	moc_predefs.h	123
+__DEC128_SUBNORMAL_MIN__	moc_predefs.h	167
+__DEC32_EPSILON__	moc_predefs.h	47
+__DEC32_MANT_DIG__	moc_predefs.h	255
+__DEC32_MAX_EXP__	moc_predefs.h	181
+__DEC32_MAX__	moc_predefs.h	68
+__DEC32_MIN_EXP__	moc_predefs.h	91
+__DEC32_MIN__	moc_predefs.h	98
+__DEC32_SUBNORMAL_MIN__	moc_predefs.h	160
+__DEC64_EPSILON__	moc_predefs.h	138
+__DEC64_MANT_DIG__	moc_predefs.h	175
+__DEC64_MAX_EXP__	moc_predefs.h	38
+__DEC64_MAX__	moc_predefs.h	171
+__DEC64_MIN_EXP__	moc_predefs.h	198
+__DEC64_MIN__	moc_predefs.h	213
+__DEC64_SUBNORMAL_MIN__	moc_predefs.h	264
+__DECIMAL_BID_FORMAT__	moc_predefs.h	122
+__DECIMAL_DIG__	moc_predefs.h	74
+__DEC_EVAL_METHOD__	moc_predefs.h	234
+__DEPRECATED	moc_predefs.h	99
+__ELF__	moc_predefs.h	149
+__EXCEPTIONS	moc_predefs.h	187
+__FINITE_MATH_ONLY__	moc_predefs.h	34
+__FLOAT_WORD_ORDER__	moc_predefs.h	135
+__FLT_DECIMAL_DIG__	moc_predefs.h	272
+__FLT_DENORM_MIN__	moc_predefs.h	240
+__FLT_DIG__	moc_predefs.h	202
+__FLT_EPSILON__	moc_predefs.h	65
+__FLT_EVAL_METHOD__	moc_predefs.h	25
+__FLT_HAS_DENORM__	moc_predefs.h	82
+__FLT_HAS_INFINITY__	moc_predefs.h	168
+__FLT_HAS_QUIET_NAN__	moc_predefs.h	164
+__FLT_MANT_DIG__	moc_predefs.h	129
+__FLT_MAX_10_EXP__	moc_predefs.h	165
+__FLT_MAX_EXP__	moc_predefs.h	207
+__FLT_MAX__	moc_predefs.h	244
+__FLT_MIN_10_EXP__	moc_predefs.h	274
+__FLT_MIN_EXP__	moc_predefs.h	117
+__FLT_MIN__	moc_predefs.h	6
+__FLT_RADIX__	moc_predefs.h	150
+__FXSR__	moc_predefs.h	233
+__GCC_ATOMIC_BOOL_LOCK_FREE	moc_predefs.h	44
+__GCC_ATOMIC_CHAR16_T_LOCK_FREE	moc_predefs.h	61
+__GCC_ATOMIC_CHAR32_T_LOCK_FREE	moc_predefs.h	28
+__GCC_ATOMIC_CHAR_LOCK_FREE	moc_predefs.h	23
+__GCC_ATOMIC_INT_LOCK_FREE	moc_predefs.h	134
+__GCC_ATOMIC_LLONG_LOCK_FREE	moc_predefs.h	270
+__GCC_ATOMIC_LONG_LOCK_FREE	moc_predefs.h	177
+__GCC_ATOMIC_POINTER_LOCK_FREE	moc_predefs.h	58
+__GCC_ATOMIC_SHORT_LOCK_FREE	moc_predefs.h	275
+__GCC_ATOMIC_TEST_AND_SET_TRUEVAL	moc_predefs.h	201
+__GCC_ATOMIC_WCHAR_T_LOCK_FREE	moc_predefs.h	157
+__GCC_HAVE_DWARF2_CFI_ASM	moc_predefs.h	115
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_1	moc_predefs.h	18
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_2	moc_predefs.h	19
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_4	moc_predefs.h	20
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_8	moc_predefs.h	22
+__GCC_IEC_559	moc_predefs.h	24
+__GCC_IEC_559_COMPLEX	moc_predefs.h	7
+__GLIBCXX_BITSIZE_INT_N_0	moc_predefs.h	154
+__GLIBCXX_TYPE_INT_N_0	moc_predefs.h	253
+__GNUC_MINOR__	moc_predefs.h	252
+__GNUC_PATCHLEVEL__	moc_predefs.h	35
+__GNUC_STDC_INLINE__	moc_predefs.h	230
+__GNUC__	moc_predefs.h	78
+__GNUG__	moc_predefs.h	108
+__GXX_ABI_VERSION	moc_predefs.h	116
+__GXX_EXPERIMENTAL_CXX0X__	moc_predefs.h	50
+__GXX_RTTI	moc_predefs.h	79
+__GXX_WEAK__	moc_predefs.h	66
+__INT16_C	moc_predefs.h	/^#define __INT16_C(c) c$/
+__INT16_MAX__	moc_predefs.h	144
+__INT16_TYPE__	moc_predefs.h	179
+__INT32_C	moc_predefs.h	/^#define __INT32_C(c) c$/
+__INT32_MAX__	moc_predefs.h	69
+__INT32_TYPE__	moc_predefs.h	246
+__INT64_C	moc_predefs.h	/^#define __INT64_C(c) c ## L$/
+__INT64_MAX__	moc_predefs.h	90
+__INT64_TYPE__	moc_predefs.h	206
+__INT8_C	moc_predefs.h	/^#define __INT8_C(c) c$/
+__INT8_MAX__	moc_predefs.h	241
+__INT8_TYPE__	moc_predefs.h	148
+__INTMAX_C	moc_predefs.h	/^#define __INTMAX_C(c) c ## L$/
+__INTMAX_MAX__	moc_predefs.h	237
+__INTMAX_TYPE__	moc_predefs.h	249
+__INTPTR_MAX__	moc_predefs.h	183
+__INTPTR_TYPE__	moc_predefs.h	193
+__INT_FAST16_MAX__	moc_predefs.h	161
+__INT_FAST16_TYPE__	moc_predefs.h	92
+__INT_FAST32_MAX__	moc_predefs.h	88
+__INT_FAST32_TYPE__	moc_predefs.h	141
+__INT_FAST64_MAX__	moc_predefs.h	200
+__INT_FAST64_TYPE__	moc_predefs.h	119
+__INT_FAST8_MAX__	moc_predefs.h	182
+__INT_FAST8_TYPE__	moc_predefs.h	229
+__INT_LEAST16_MAX__	moc_predefs.h	174
+__INT_LEAST16_TYPE__	moc_predefs.h	151
+__INT_LEAST32_MAX__	moc_predefs.h	97
+__INT_LEAST32_TYPE__	moc_predefs.h	226
+__INT_LEAST64_MAX__	moc_predefs.h	212
+__INT_LEAST64_TYPE__	moc_predefs.h	178
+__INT_LEAST8_MAX__	moc_predefs.h	219
+__INT_LEAST8_TYPE__	moc_predefs.h	180
+__INT_MAX__	moc_predefs.h	204
+__LDBL_DENORM_MIN__	moc_predefs.h	257
+__LDBL_DIG__	moc_predefs.h	271
+__LDBL_EPSILON__	moc_predefs.h	152
+__LDBL_HAS_DENORM__	moc_predefs.h	93
+__LDBL_HAS_INFINITY__	moc_predefs.h	64
+__LDBL_HAS_QUIET_NAN__	moc_predefs.h	77
+__LDBL_MANT_DIG__	moc_predefs.h	188
+__LDBL_MAX_10_EXP__	moc_predefs.h	221
+__LDBL_MAX_EXP__	moc_predefs.h	51
+__LDBL_MAX__	moc_predefs.h	42
+__LDBL_MIN_10_EXP__	moc_predefs.h	266
+__LDBL_MIN_EXP__	moc_predefs.h	218
+__LDBL_MIN__	moc_predefs.h	67
+__LONG_LONG_MAX__	moc_predefs.h	109
+__LONG_MAX__	moc_predefs.h	166
+__LP64__	moc_predefs.h	121
+__MMX__	moc_predefs.h	80
+__NO_INLINE__	moc_predefs.h	128
+__ORDER_BIG_ENDIAN__	moc_predefs.h	208
+__ORDER_LITTLE_ENDIAN__	moc_predefs.h	15
+__ORDER_PDP_ENDIAN__	moc_predefs.h	139
+__PRAGMA_REDEFINE_EXTNAME	moc_predefs.h	173
+__PTRDIFF_MAX__	moc_predefs.h	104
+__PTRDIFF_TYPE__	moc_predefs.h	260
+__REGISTER_PREFIX__	moc_predefs.h	124
+__SCHAR_MAX__	moc_predefs.h	54
+__SHRT_MAX__	moc_predefs.h	41
+__SIG_ATOMIC_MAX__	moc_predefs.h	156
+__SIG_ATOMIC_MIN__	moc_predefs.h	190
+__SIG_ATOMIC_TYPE__	moc_predefs.h	32
+__SIZEOF_DOUBLE__	moc_predefs.h	247
+__SIZEOF_FLOAT128__	moc_predefs.h	211
+__SIZEOF_FLOAT80__	moc_predefs.h	9
+__SIZEOF_FLOAT__	moc_predefs.h	196
+__SIZEOF_INT128__	moc_predefs.h	220
+__SIZEOF_INT__	moc_predefs.h	59
+__SIZEOF_LONG_DOUBLE__	moc_predefs.h	83
+__SIZEOF_LONG_LONG__	moc_predefs.h	268
+__SIZEOF_LONG__	moc_predefs.h	70
+__SIZEOF_POINTER__	moc_predefs.h	60
+__SIZEOF_PTRDIFF_T__	moc_predefs.h	158
+__SIZEOF_SHORT__	moc_predefs.h	216
+__SIZEOF_SIZE_T__	moc_predefs.h	110
+__SIZEOF_WCHAR_T__	moc_predefs.h	227
+__SIZEOF_WINT_T__	moc_predefs.h	113
+__SIZE_MAX__	moc_predefs.h	16
+__SIZE_TYPE__	moc_predefs.h	146
+__SSE2_MATH__	moc_predefs.h	102
+__SSE2__	moc_predefs.h	186
+__SSE_MATH__	moc_predefs.h	267
+__SSE__	moc_predefs.h	217
+__SSP_STRONG__	moc_predefs.h	1
+__STDC_HOSTED__	moc_predefs.h	63
+__STDC_IEC_559_COMPLEX__	moc_predefs.h	136
+__STDC_IEC_559__	moc_predefs.h	71
+__STDC_ISO_10646__	moc_predefs.h	72
+__STDC_NO_THREADS__	moc_predefs.h	106
+__STDC_UTF_16__	moc_predefs.h	85
+__STDC_UTF_32__	moc_predefs.h	232
+__STDC__	moc_predefs.h	259
+__UINT16_C	moc_predefs.h	/^#define __UINT16_C(c) c$/
+__UINT16_MAX__	moc_predefs.h	125
+__UINT16_TYPE__	moc_predefs.h	194
+__UINT32_C	moc_predefs.h	/^#define __UINT32_C(c) c ## U$/
+__UINT32_MAX__	moc_predefs.h	49
+__UINT32_TYPE__	moc_predefs.h	262
+__UINT64_C	moc_predefs.h	/^#define __UINT64_C(c) c ## UL$/
+__UINT64_MAX__	moc_predefs.h	147
+__UINT64_TYPE__	moc_predefs.h	228
+__UINT8_C	moc_predefs.h	/^#define __UINT8_C(c) c$/
+__UINT8_MAX__	moc_predefs.h	12
+__UINT8_TYPE__	moc_predefs.h	127
+__UINTMAX_C	moc_predefs.h	/^#define __UINTMAX_C(c) c ## UL$/
+__UINTMAX_MAX__	moc_predefs.h	254
+__UINTMAX_TYPE__	moc_predefs.h	45
+__UINTPTR_MAX__	moc_predefs.h	197
+__UINTPTR_TYPE__	moc_predefs.h	263
+__UINT_FAST16_MAX__	moc_predefs.h	273
+__UINT_FAST16_TYPE__	moc_predefs.h	170
+__UINT_FAST32_MAX__	moc_predefs.h	162
+__UINT_FAST32_TYPE__	moc_predefs.h	242
+__UINT_FAST64_MAX__	moc_predefs.h	31
+__UINT_FAST64_TYPE__	moc_predefs.h	203
+__UINT_FAST8_MAX__	moc_predefs.h	36
+__UINT_FAST8_TYPE__	moc_predefs.h	276
+__UINT_LEAST16_MAX__	moc_predefs.h	4
+__UINT_LEAST16_TYPE__	moc_predefs.h	142
+__UINT_LEAST32_MAX__	moc_predefs.h	176
+__UINT_LEAST32_TYPE__	moc_predefs.h	215
+__UINT_LEAST64_MAX__	moc_predefs.h	40
+__UINT_LEAST64_TYPE__	moc_predefs.h	163
+__UINT_LEAST8_MAX__	moc_predefs.h	43
+__UINT_LEAST8_TYPE__	moc_predefs.h	8
+__USER_LABEL_PREFIX__	moc_predefs.h	62
+__VERSION__	moc_predefs.h	130
+__WCHAR_MAX__	moc_predefs.h	17
+__WCHAR_MIN__	moc_predefs.h	55
+__WCHAR_TYPE__	moc_predefs.h	195
+__WINT_MAX__	moc_predefs.h	13
+__WINT_MIN__	moc_predefs.h	52
+__WINT_TYPE__	moc_predefs.h	214
+__amd64	moc_predefs.h	105
+__amd64__	moc_predefs.h	205
+__code_model_small__	moc_predefs.h	191
+__cplusplus	moc_predefs.h	94
+__cpp_alias_templates	moc_predefs.h	238
+__cpp_attributes	moc_predefs.h	3
+__cpp_binary_literals	moc_predefs.h	27
+__cpp_constexpr	moc_predefs.h	245
+__cpp_decltype	moc_predefs.h	199
+__cpp_delegating_constructors	moc_predefs.h	81
+__cpp_exceptions	moc_predefs.h	248
+__cpp_inheriting_constructors	moc_predefs.h	210
+__cpp_initializer_lists	moc_predefs.h	114
+__cpp_lambdas	moc_predefs.h	118
+__cpp_nsdmi	moc_predefs.h	112
+__cpp_range_based_for	moc_predefs.h	185
+__cpp_raw_strings	moc_predefs.h	87
+__cpp_ref_qualifiers	moc_predefs.h	95
+__cpp_rtti	moc_predefs.h	145
+__cpp_runtime_arrays	moc_predefs.h	235
+__cpp_rvalue_reference	moc_predefs.h	111
+__cpp_static_assert	moc_predefs.h	14
+__cpp_unicode_characters	moc_predefs.h	132
+__cpp_unicode_literals	moc_predefs.h	169
+__cpp_user_defined_literals	moc_predefs.h	269
+__cpp_variadic_templates	moc_predefs.h	30
+__gnu_linux__	moc_predefs.h	75
+__has_include	moc_predefs.h	/^#define __has_include(STR) __has_include__(STR)$/
+__has_include_next	moc_predefs.h	/^#define __has_include_next(STR) __has_include_next/
+__k8	moc_predefs.h	155
+__k8__	moc_predefs.h	192
+__linux	moc_predefs.h	46
+__linux__	moc_predefs.h	53
+__unix	moc_predefs.h	48
+__unix__	moc_predefs.h	26
+__x86_64	moc_predefs.h	29
+__x86_64__	moc_predefs.h	159
+access_log.o	Makefile	/^access_log.o: served\/plugins\/access_log.cpp served/
+age	person02.h	9
+all	Makefile	/^all: Makefile $(TARGET)$/
+b	RenderWidget.o	7167
+benchmark	Makefile	/^benchmark: first$/
+c2	methods_handler.o	691
+centralWidget	ui_mainwindow.h	36
+check	Makefile	/^check: first$/
+clean	Makefile	/^clean: compiler_clean $/
+comboBox	ui_mainwindow.h	158
+comboBox_2	ui_mainwindow.h	163
+comboBox_3	ui_mainwindow.h	168
+comboBox_4	ui_mainwindow.h	169
+comboBox_5	ui_mainwindow.h	170
+compiler_clean	Makefile	/^compiler_clean: compiler_moc_predefs_clean compile/
+compiler_lex_clean	Makefile	/^compiler_lex_clean:$/
+compiler_lex_make_all	Makefile	/^compiler_lex_make_all:$/
+compiler_moc_header_clean	Makefile	/^compiler_moc_header_clean:$/
+compiler_moc_header_make_all	Makefile	/^compiler_moc_header_make_all: moc_mainwindow.cpp m/
+compiler_moc_predefs_clean	Makefile	/^compiler_moc_predefs_clean:$/
+compiler_moc_predefs_make_all	Makefile	/^compiler_moc_predefs_make_all: moc_predefs.h$/
+compiler_moc_source_clean	Makefile	/^compiler_moc_source_clean:$/
+compiler_moc_source_make_all	Makefile	/^compiler_moc_source_make_all:$/
+compiler_rcc_clean	Makefile	/^compiler_rcc_clean:$/
+compiler_rcc_make_all	Makefile	/^compiler_rcc_make_all:$/
+compiler_uic_clean	Makefile	/^compiler_uic_clean:$/
+compiler_uic_make_all	Makefile	/^compiler_uic_make_all: ui_mainwindow.h$/
+compiler_yacc_decl_clean	Makefile	/^compiler_yacc_decl_clean:$/
+compiler_yacc_decl_make_all	Makefile	/^compiler_yacc_decl_make_all:$/
+compiler_yacc_impl_clean	Makefile	/^compiler_yacc_impl_clean:$/
+compiler_yacc_impl_make_all	Makefile	/^compiler_yacc_impl_make_all:$/
+connection.o	Makefile	/^connection.o: served\/net\/connection.cpp served\/sta/
+connection_manager.o	Makefile	/^connection_manager.o: served\/net\/connection_manage/
+cv	mainwindow.h	32
+d	multiplexer.o	722
+dist	Makefile	/^dist: distdir FORCE$/
+distclean	Makefile	/^distclean: clean $/
+distdir	Makefile	/^distdir: FORCE$/
+e	access_log.o	737
+e	moc_mainwindow.o	6285
+e	moc_mainwindow.o	6286
+e	moc_mainwindow.o	6291
+e	moc_mainwindow.o	6294
+e	moc_mainwindow.o	6297
+e	moc_mainwindow.o	6298
+e	moc_mainwindow.o	6299
+e	moc_mainwindow.o	6300
+e	mythread.o	26437
+e3	moc_mainwindow.o	5094
+errorHandling	mythread.cpp	/^void errorHandling(char *message){$/
+first	Makefile	/^first: all$/
+fâE˛∑E	access_log.o	80
+g	methods_handler.o	317
+g	moc_mainwindow.o	2664
+g	moc_mainwindow.o	2666
+g_CAMREA_IP_ADRESS	mythread.cpp	23
+g_CAMREA_PORT	mythread.cpp	24
+g_IP_ADRESS	mythread.cpp	22
+g_PORT	mythread.cpp	25
+getAge	person02.h	/^    int getAge(){$/
+getName	person02.h	/^    string getName(){$/
+gt	mainwindow.ui	40
+gt	mainwindow.ui	40
+gt	mainwindow.ui	40
+gt	mainwindow.ui	40
+gt	mainwindow.ui	40
+gt	mainwindow.ui	40
+gt	mainwindow.ui	40
+gt	mainwindow.ui	40
+h	moc_mainwindow.o	2457
+h	moc_mainwindow.o	2461
+h	moc_mainwindow.o	2464
+h	moc_mainwindow.o	2481
+h	moc_mainwindow.o	2716
+h	moc_mainwindow.o	2718
+h	moc_mainwindow.o	2721
+h	moc_mainwindow.o	2725
+h	regex_matcher.o	781
+horizontalScrollBar	ui_mainwindow.h	44
+horizontalScrollBar_2	ui_mainwindow.h	45
+i	mythread.o	2746
+install	Makefile	/^install:  FORCE$/
+ix	request.o	309
+k	moc_RenderWidget.o	579
+l	main.o	2507
+l	moc_mainwindow.o	2662
+l	NovuCamera	13591
+l	RenderWidget.o	1417
+label	ui_mainwindow.h	50
+label_10	ui_mainwindow.h	146
+label_100	ui_mainwindow.h	137
+label_101	ui_mainwindow.h	74
+label_102	ui_mainwindow.h	80
+label_103	ui_mainwindow.h	86
+label_104	ui_mainwindow.h	90
+label_105	ui_mainwindow.h	91
+label_106	ui_mainwindow.h	92
+label_11	ui_mainwindow.h	147
+label_12	ui_mainwindow.h	148
+label_13	ui_mainwindow.h	149
+label_14	ui_mainwindow.h	154
+label_15	ui_mainwindow.h	159
+label_16	ui_mainwindow.h	160
+label_17	ui_mainwindow.h	161
+label_18	ui_mainwindow.h	162
+label_19	ui_mainwindow.h	49
+label_2	ui_mainwindow.h	37
+label_20	ui_mainwindow.h	51
+label_21	ui_mainwindow.h	52
+label_22	ui_mainwindow.h	53
+label_23	ui_mainwindow.h	54
+label_24	ui_mainwindow.h	55
+label_25	ui_mainwindow.h	69
+label_26	ui_mainwindow.h	70
+label_27	ui_mainwindow.h	71
+label_28	ui_mainwindow.h	62
+label_29	ui_mainwindow.h	72
+label_3	ui_mainwindow.h	139
+label_30	ui_mainwindow.h	63
+label_31	ui_mainwindow.h	73
+label_32	ui_mainwindow.h	64
+label_33	ui_mainwindow.h	75
+label_34	ui_mainwindow.h	65
+label_35	ui_mainwindow.h	76
+label_36	ui_mainwindow.h	66
+label_37	ui_mainwindow.h	77
+label_38	ui_mainwindow.h	67
+label_39	ui_mainwindow.h	78
+label_4	ui_mainwindow.h	140
+label_40	ui_mainwindow.h	68
+label_41	ui_mainwindow.h	79
+label_42	ui_mainwindow.h	81
+label_43	ui_mainwindow.h	82
+label_44	ui_mainwindow.h	83
+label_45	ui_mainwindow.h	84
+label_46	ui_mainwindow.h	85
+label_47	ui_mainwindow.h	87
+label_48	ui_mainwindow.h	88
+label_49	ui_mainwindow.h	89
+label_5	ui_mainwindow.h	141
+label_50	ui_mainwindow.h	56
+label_51	ui_mainwindow.h	57
+label_52	ui_mainwindow.h	58
+label_53	ui_mainwindow.h	59
+label_54	ui_mainwindow.h	60
+label_55	ui_mainwindow.h	61
+label_56	ui_mainwindow.h	93
+label_57	ui_mainwindow.h	94
+label_58	ui_mainwindow.h	95
+label_59	ui_mainwindow.h	96
+label_6	ui_mainwindow.h	142
+label_60	ui_mainwindow.h	97
+label_61	ui_mainwindow.h	98
+label_62	ui_mainwindow.h	99
+label_63	ui_mainwindow.h	100
+label_64	ui_mainwindow.h	101
+label_65	ui_mainwindow.h	102
+label_66	ui_mainwindow.h	103
+label_67	ui_mainwindow.h	104
+label_68	ui_mainwindow.h	105
+label_69	ui_mainwindow.h	106
+label_7	ui_mainwindow.h	143
+label_70	ui_mainwindow.h	107
+label_71	ui_mainwindow.h	108
+label_72	ui_mainwindow.h	109
+label_73	ui_mainwindow.h	110
+label_74	ui_mainwindow.h	111
+label_75	ui_mainwindow.h	112
+label_76	ui_mainwindow.h	113
+label_77	ui_mainwindow.h	114
+label_78	ui_mainwindow.h	115
+label_79	ui_mainwindow.h	116
+label_8	ui_mainwindow.h	144
+label_80	ui_mainwindow.h	117
+label_81	ui_mainwindow.h	118
+label_82	ui_mainwindow.h	119
+label_83	ui_mainwindow.h	120
+label_84	ui_mainwindow.h	121
+label_85	ui_mainwindow.h	122
+label_86	ui_mainwindow.h	123
+label_87	ui_mainwindow.h	124
+label_88	ui_mainwindow.h	125
+label_89	ui_mainwindow.h	126
+label_9	ui_mainwindow.h	145
+label_90	ui_mainwindow.h	127
+label_91	ui_mainwindow.h	128
+label_92	ui_mainwindow.h	129
+label_93	ui_mainwindow.h	130
+label_94	ui_mainwindow.h	131
+label_95	ui_mainwindow.h	132
+label_96	ui_mainwindow.h	133
+label_97	ui_mainwindow.h	134
+label_98	ui_mainwindow.h	135
+label_99	ui_mainwindow.h	136
+lineEdit	ui_mainwindow.h	155
+lineEdit_2	ui_mainwindow.h	156
+lineEdit_3	ui_mainwindow.h	157
+lineEdit_4	ui_mainwindow.h	164
+lineEdit_5	ui_mainwindow.h	165
+lineEdit_6	ui_mainwindow.h	166
+lineEdit_7	ui_mainwindow.h	167
+linux	moc_predefs.h	184
+lt	mainwindow.ui	40
+lt	mainwindow.ui	40
+lt	mainwindow.ui	40
+lt	mainwindow.ui	40
+lt	mainwindow.ui	40
+lt	mainwindow.ui	40
+lt	mainwindow.ui	40
+m	RenderWidget.o	6861
+m	RenderWidget.o	7053
+m4	methods_handler.o	1036
+main.o	Makefile	/^main.o: main.cpp mainwindow.h \\$/
+mainToolBar	ui_mainwindow.h	172
+mainwindow.o	Makefile	/^mainwindow.o: mainwindow.cpp mainwindow.h \\$/
+menuBar	ui_mainwindow.h	171
+methods_handler.o	Makefile	/^methods_handler.o: served\/methods_handler.cpp serv/
+moc_RenderWidget.cpp	Makefile	/^moc_RenderWidget.cpp: \/home\/xiaolonglu\/Qt5.9.0\/5.9/
+moc_RenderWidget.o	Makefile	/^moc_RenderWidget.o: moc_RenderWidget.cpp $/
+moc_mainwindow.cpp	Makefile	/^moc_mainwindow.cpp: \/home\/xiaolonglu\/Qt5.9.0\/5.9\/g/
+moc_mainwindow.o	Makefile	/^moc_mainwindow.o: moc_mainwindow.cpp $/
+moc_mythread.cpp	Makefile	/^moc_mythread.cpp: \/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc/
+moc_mythread.o	Makefile	/^moc_mythread.o: moc_mythread.cpp $/
+moc_predefs.h	Makefile	/^moc_predefs.h: \/home\/xiaolonglu\/Qt5.9.0\/5.9\/gcc_64/
+mocables	Makefile	/^mocables: compiler_moc_header_make_all compiler_mo/
+mocclean	Makefile	/^mocclean: compiler_moc_header_clean compiler_moc_s/
+multiplexer.o	Makefile	/^multiplexer.o: served\/multiplexer.cpp served\/statu/
+mysql.o	Makefile	/^mysql.o: mysql.cpp mysql.h \\$/
+mythread.o	Makefile	/^mythread.o: mythread.cpp mythread.h \\$/
+name	mainwindow.ui	42
+name	person02.h	8
+o	RenderWidget.o	1428
+o	server.o	942
+parameters.o	Makefile	/^parameters.o: served\/parameters.cpp served\/paramet/
+person	person02.h	6
+person	person02.h	/^    person(){$/
+person	person02.h	/^    person(string name, int age)$/
+pushButton_2	ui_mainwindow.h	153
+pushButton_close	ui_mainwindow.h	43
+pushButton_open	ui_mainwindow.h	40
+pushButton_pause	ui_mainwindow.h	41
+pushButton_restart	ui_mainwindow.h	42
+q	RenderWidget.o	6729
+qA	NovuCamera	13571
+qmake	Makefile	/^qmake: FORCE$/
+qmake_all	Makefile	/^qmake_all: FORCE$/
+qt_meta_data_CRenderWidget	moc_RenderWidget.cpp	41
+qt_meta_data_MainWindow	moc_mainwindow.cpp	259
+qt_meta_data_MyThread	moc_mythread.cpp	43
+qt_meta_stringdata_CRenderWidget	moc_RenderWidget.cpp	32
+qt_meta_stringdata_CRenderWidget_t	moc_RenderWidget.cpp	23
+qt_meta_stringdata_CRenderWidget_t::data	moc_RenderWidget.cpp	24
+qt_meta_stringdata_CRenderWidget_t::stringdata0	moc_RenderWidget.cpp	25
+qt_meta_stringdata_MainWindow	moc_mainwindow.cpp	32
+qt_meta_stringdata_MainWindow_t	moc_mainwindow.cpp	23
+qt_meta_stringdata_MainWindow_t::data	moc_mainwindow.cpp	24
+qt_meta_stringdata_MainWindow_t::stringdata0	moc_mainwindow.cpp	25
+qt_meta_stringdata_MyThread	moc_mythread.cpp	32
+qt_meta_stringdata_MyThread_t	moc_mythread.cpp	23
+qt_meta_stringdata_MyThread_t::data	moc_mythread.cpp	24
+qt_meta_stringdata_MyThread_t::stringdata0	moc_mythread.cpp	25
+r	methods_handler.o	780
+r	moc_mainwindow.o	6306
+regex_matcher.o	Makefile	/^regex_matcher.o: served\/mux\/regex_matcher.cpp serv/
+request.o	Makefile	/^request.o: served\/request.cpp served\/request.hpp \\/
+request_parser.o	Makefile	/^request_parser.o: served\/request_parser.cpp served/
+request_parser_impl.o	Makefile	/^request_parser_impl.o: served\/request_parser_impl./
+response.o	Makefile	/^response.o: served\/response.cpp served\/version.hpp/
+restful	mythread.cpp	/^void restful()$/
+rq	RenderWidget.o	6692
+rq	RenderWidget.o	6696
+s	connection_manager.o	695
+s	multiplexer.o	739
+s	multiplexer.o	1785
+s	regex_matcher.o	579
+s	regex_matcher.o	580
+s	regex_matcher.o	582
+s	regex_matcher.o	583
+s	regex_matcher.o	584
+s	regex_matcher.o	585
+s	regex_matcher.o	587
+s	regex_matcher.o	619
+s	RenderWidget.o	6688
+server	mythread.cpp	/^void server(){$/
+server.o	Makefile	/^server.o: served\/net\/server.cpp served\/net\/server./
+setAge	person02.h	/^    void setAge(int age){$/
+setName	person02.h	/^    void setName(string name){$/
+setupUi	ui_mainwindow.h	/^    void setupUi(QMainWindow *MainWindow)$/
+static_matcher.o	Makefile	/^static_matcher.o: served\/mux\/static_matcher.cpp se/
+status.o	Makefile	/^status.o: served\/status.cpp served\/status.hpp$/
+statusBar	ui_mainwindow.h	173
+std	mainwindow.h	33
+std	mysql.h	16
+std	person02.h	5
+t	moc_mainwindow.o	6252
+t	request.o	116
+t	request.o	126
+t	request.o	138
+t	request.o	142
+tabWidget	ui_mainwindow.h	38
+tab_1	ui_mainwindow.h	39
+tab_2	ui_mainwindow.h	138
+textBrowser	ui_mainwindow.h	150
+textBrowser_2	ui_mainwindow.h	151
+textBrowser_3	ui_mainwindow.h	152
+textBrowser_4	ui_mainwindow.h	46
+textBrowser_5	ui_mainwindow.h	47
+type	NovuCamera.pro.user	11
+type	NovuCamera.pro.user	368
+type	test.pro.user	11
+u	RenderWidget.o	7118
+uHÉm¯	connection.o	139
+ui_mainwindow.h	Makefile	/^ui_mainwindow.h: mainwindow.ui \\$/
+uninstall	Makefile	/^uninstall:  FORCE$/
+unix	moc_predefs.h	143
+uri.o	Makefile	/^uri.o: served\/uri.cpp served\/uri.hpp$/
+v	main.o	1537
+variable_matcher.o	Makefile	/^variable_matcher.o: served\/mux\/variable_matcher.cp/
+version	mainwindow.ui	1
+version	NovuCamera.pro.user	1
+version	test.pro.user	1
+vf	main.o	1551
+w	main.o	1458
+w	main.o	1461
+w	mainwindow.o	2010
+x	mainwindow.o	4686
+yl	mysql.o	839
+z	RenderWidget.o	7156
+z	RenderWidget.o	7201
+~	moc_RenderWidget.o	628
+~	moc_RenderWidget.o	641
+~	request.o	77
+~	request.o	87
+~Hã	request_parser_impl.o	24
